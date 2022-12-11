@@ -1,2 +1,2 @@
-# runtime-concurrency
-A learning project to explore simple concurrency in various languages.
+# rand-array-runtime
+Learning project about concurrency in Python and Go.
